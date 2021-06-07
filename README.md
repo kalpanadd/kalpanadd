@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kalpana Devi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning webapp development
+- 👋 Hi, I’m @Kalpana 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Webapplication Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
